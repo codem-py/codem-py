@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGcyaHgyeTQ3NnRiNDgwc2x2M2c2OTl5MnNhNXdlbGkwd3JjZHQzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
