@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGcyaHgyeTQ3NnRiNDgwc2x2M2c2OTl5MnNhNXdlbGkwd3JjZHQzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
