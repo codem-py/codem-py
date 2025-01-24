@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 
 - 🔭  **Self Employed**
 
