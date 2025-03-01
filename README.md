@@ -5,7 +5,7 @@
 
 - 🔭  **Self Employed**
 
-- 💬 Ask me about:  **Python, Django, Sql, PostgreSQL, Telegram Bot, RestAPI**
+- 💬 Ask me about:  **Python, Django, Sql, PostgreSQL, Telegram Bot, RestAPI, WebSocket**
 
 - 📫 How to reach me: **ibehruz005@gmail.com**
 
